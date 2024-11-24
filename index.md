@@ -8,7 +8,7 @@ Hello! I am a 4th year PhD student in Computer Science in Washington University 
 
 I am currently working on the computational pipeline for the Advanced Particle Astrophysics Telescope (APT) and the Antarctic Demonstrator for the Advanced Particle Astrophysics Telescope ([ADAPT](https://adapt.physics.wustl.edu/)) for Gamma-Ray Burst (GRB) localization. 
 
-Broadly, I am interested in working with algorithms and machine learning applications from an architectural perspective (GPUs).
+Broadly, I am interested in working with algorithms and deep learning applications from an architectural perspective (GPUs).
 
 ## Research Interests
 

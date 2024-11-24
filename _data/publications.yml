@@ -1,5 +1,13 @@
 main:
 
+  - title: Machine Learning Aboard the ADAPT Gamma-Ray Telescope.
+    authors: <strong>Ye Htet</strong>, Marion Sudvarg, Andrew Butzel, Jeremy Buhler, Roger Chamberlain, and James Buckley.
+    conference_short: AI4S (SC 24)
+    conference: The 5th Workshop on Artificial Intelligence and Machine Learning for Scientific Applications (AI4S), November 2024. Held in conjunction with SC.
+    pdf: ./assets/files/papers/ai4s_sc2024.pdf
+    paper: ./assets/files/papers/ai4s_sc2024.pdf
+    image: ./assets/img/defaults/default_paper.png
+
   - title: A Computational Pipeline for Prompt Gamma-Ray Burst Localization Aboard APT and ADAPT.
     authors: <strong>Ye Htet</strong>, Marion Sudvarg, Jeremy Buhler, Roger Chamberlain, James Buckley, and the APT Collaboration.
     conference_short: HEAD2024
@@ -17,8 +25,8 @@ main:
     image: ./assets/img/defaults/default_poster.png
 
   - title: Localization of Gamma-ray Bursts in a Balloon-Borne Telescope
-    authors: <strong>Ye Htet</strong>, Marion Sudvarg, Jeremy Buhler, Roger Chamberlain, James Buckley, and the APT Collaboration
-    conference_short: EPSOUQ (SC)
+    authors: <strong>Ye Htet</strong>, Marion Sudvarg, Jeremy Buhler, Roger Chamberlain, and James Buckley.
+    conference_short: EPSOUQ (SC 23)
     conference: The First Workshop on Enabling Predictive Science with Optimization and Uncertainty Quantification in HPC (EPSOUQ), November 2023. Held in conjunction with SC.
     pdf: ./assets/files/papers/epsouq_sc2023.pdf
     paper: ./assets/files/papers/epsouq_sc2023.pdf
