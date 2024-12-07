@@ -6,10 +6,11 @@ email: htet.ye (at) wustl.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: yehtet, wustl, washu, washington, university, saint louis, st. louis, phd, ph.d., machine learning, apt, adapt, artificial intelligence, sbs, stream-based computing
+keywords: yehtet, htet-ye, htet.ye, wustl, washu, washington, university, saint louis, st. louis, phd, ph.d., machine learning, apt, adapt, artificial intelligence, sbs, stream-based computing
 description: Homepage to Ye Htet, a 4th year Ph.D. candidate at Washington University in Saint Louis.
 canonical: https://htet-ye.github.io/
 
+author: yehtet
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=3OjLAMcAAAAJ&hl=en&oi=ao
