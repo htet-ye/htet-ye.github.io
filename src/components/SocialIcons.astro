@@ -1,0 +1,19 @@
+---
+import SocialIcon from "@components/SocialIcon.astro";
+import { SITE } from "@consts";
+
+export interface Props {
+    icon_size: string
+}
+  
+const { icon_size } = Astro.props;
+---
+<ul class="not-prose flex flex-wrap gap-6">
+    <!-- <SocialIcon icon_size={icon_size} URL="#" icon="twitter-x"/> -->
+    <!-- <SocialIcon icon_size={icon_size} URL="#" icon="github"/> -->
+    <!-- <SocialIcon icon_size={icon_size} URL="#" icon="envelope-fill"/> -->
+    <SocialIcon icon_size={icon_size} URL="https://scholar.google.com/citations?user=3OjLAMcAAAAJ&hl=en&oi=ao" icon="mortarboard-fill"/>
+    <SocialIcon icon_size={icon_size} URL="/htet_ye-cv.pdf" icon="CV" isText={true}/>
+    <SocialIcon icon_size={icon_size} URL="https://www.linkedin.com/in/htet-ye/" icon="linkedin"/>
+    <!-- <SocialIcon icon_size={icon_size} URL={`${SITE.SITEURL}/rss.xml`} icon="rss-fill"/> -->
+</ul>
