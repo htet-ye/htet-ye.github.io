@@ -1,0 +1,85 @@
+main:
+
+  - title: Machine Learning Aboard the ADAPT Gamma-Ray Telescope.
+    authors: <strong>Ye Htet</strong>, Marion Sudvarg, Andrew Butzel, Jeremy Buhler, Roger Chamberlain, and James Buckley.
+    conference_short: AI4S (SC 24)
+    conference: The 5th Workshop on Artificial Intelligence and Machine Learning for Scientific Applications (AI4S), November 2024. Held in conjunction with SC.
+    pdf: ./assets/files/papers/ai4s_sc2024.pdf
+    paper: ./assets/files/papers/ai4s_sc2024.pdf
+    image: ./assets/img/defaults/default_paper.png
+
+  - title: A Computational Pipeline for Prompt Gamma-Ray Burst Localization Aboard APT and ADAPT.
+    authors: <strong>Ye Htet</strong>, Marion Sudvarg, Jeremy Buhler, Roger Chamberlain, James Buckley, and the APT Collaboration.
+    conference_short: HEAD2024
+    conference: 21st Divisional Meeting of the High Energy Astrophysics Division, American Astronomical Society, April 2024.
+    pdf: ./assets/files/posters/head2024_full_pipeline_poster.pdf
+    poster: ./assets/files/posters/head2024_full_pipeline_poster.pdf
+    image: ./assets/img/defaults/default_poster.png
+  
+  - title: Adaptive Real-Time Computation for Prompt Localization of Transients
+    authors: Marion Sudvarg, <strong>Ye Htet</strong>, Jeremy Buhler, Roger Chamberlain, Chris Gill, James Buckley, Wenlei Chen, and the APT Collaboration
+    conference_short: HEAD2024
+    conference: 21st Divisional Meeting of the High Energy Astrophysics Division, American Astronomical Society, April 2024.
+    pdf: ./assets/files/posters/head2024_apt_real_time_poster.pdf
+    poster: ./assets/files/posters/head2024_apt_real_time_poster.pdf
+    image: ./assets/img/defaults/default_poster.png
+
+  - title: Localization of Gamma-ray Bursts in a Balloon-Borne Telescope
+    authors: <strong>Ye Htet</strong>, Marion Sudvarg, Jeremy Buhler, Roger Chamberlain, and James Buckley.
+    conference_short: EPSOUQ (SC 23)
+    conference: The First Workshop on Enabling Predictive Science with Optimization and Uncertainty Quantification in HPC (EPSOUQ), November 2023. Held in conjunction with SC.
+    pdf: ./assets/files/papers/epsouq_sc2023.pdf
+    paper: ./assets/files/papers/epsouq_sc2023.pdf
+    image: ./assets/img/defaults/default_paper.png
+
+  - title: Prompt and Accurate GRB Source Localization Aboard the Advanced Particle Astrophysics Telescope (APT) and its Antarctic Demonstrator (ADAPT)
+    authors: <strong>Ye Htet</strong>, Marion Sudvarg, Jeremy Buhler, Roger D. Chamberlain, Wenlei Chen, James H. Buckley, Corrado Altomare, Matthew Andrew, Blake Bal, Richard G. Bose, Dana Braun, Eric Burns, Michael L. Cherry, Leonardo Di Venere, Jeffrey Dumonthier, Manel Errando, Stefan Funk, Priya Ghosh, Francesco Giordano, Jonah Hoffman, Zachary Hughes, Aera Jung, Patrick L. Kelly, John F. Krizmanic, Makiko Kuwahara, Francesco Licciulli, Gang Liu, Leonarda Lorusso, Mario Nicola Mazziotta, John Grant Mitchell, John W. Mitchell, Georgia A. de Nolfo, Giuliana Panzarini, Richard Peschke, Riccardo Paoletti, Roberta Pillera, Brian Rauch, Davide Serini, Garry Simburger, George Suarez, Teresa Tatoli, Gary S. Varner, Eric A. Wulf, Adrian Zink, and Wolfgang V. Zober. “Prompt and Accurate GRB Source Localization Aboard the Advanced Particle Astrophysics Telescope (APT) and its Antarctic Demonstrator (ADAPT)
+    conference_short: ICRC2023
+    conference: In Proc. of 38th International Cosmic Ray Conference – PoS(ICRC2023), volume 444, pages 764:1–764:9, July 2023.
+    pdf: ./assets/files/papers/backend_icrc2023.pdf
+    paper: ./assets/files/papers/backend_icrc2023.pdf
+    poster: ./assets/files/posters/backend_icrc2023_poster.pdf
+    image: ./assets/img/defaults/default_poster.png
+
+  - title: Front-End Computational Modeling and Design for the Antarctic Demonstrator for the Advanced Particle-astrophysics Telescope
+    authors: Marion Sudvarg, <strong>Ye Htet</strong>, Roger D. Chamberlain, Jeremy Buhler, Blake Bal, Corrado Altomare, Davide Serini, Mario Nicola Mazziotta, Leonardo Di Venere, Wenlei Chen, James H. Buckley, Ulysses Atekson, Meagan Konst, Thomas Lang, Shun Li, Diana Pacheco-Garcia, Nick Song, Chenfeng Zhao, Zhiting Zhou, Matthew Andrew, Richard G. Bose, Dana Braun, Eric Burns, Michael L. Cherry, Jeffrey Dumonthier, Manel Errando, Stefan Funk, Priya Ghosh, Francesco Giordano, Jonah Hoffman, Zachary Hughes, Aera Jung, Patrick L. Kelly, John F. Krizmanic, Makiko Kuwahara, Francesco Licciulli, Gang Liu, Leonarda Lorusso, John Grant Mitchell, John W. Mitchell, Georgia A. de Nolfo, Giuliana Panzarini, Richard Peschke, Riccardo Paoletti, Roberta Pillera, Brian Rauch, Garry Simburger, George Suarez, Teresa Tatoli, Gary S. Varner, Eric A. Wulf, Adrian Zink, and Wolfgang V. Zober
+    conference_short: ICRC2023
+    conference:  In Proc. of 38th International Cosmic Ray Conference – PoS(ICRC2023), volume 444, pages 956:1–956:9, July 2023. 
+    pdf: ./assets/files/papers/frontend_icrc2023.pdf
+    paper: ./assets/files/papers/frontend_icrc2023.pdf
+    poster: ./assets/files/posters/frontend_icrc2023_poster.pdf
+    image: ./assets/img/defaults/default_poster.png
+
+
+  - title: Simulation of the instrument performance of the Antarctic Demonstrator for the Advanced Particle-astrophysics Telescope in the presence of the MeV background.
+    authors: Wenlei Chen, James H. Buckley, Corrado Altomare, Matthew Andrew, Blake Bal, Richard G. Bose, Dana Braun, Jeremy Buhler, Eric Burns, Roger D. Chamberlain, Michael L. Cherry, Leonardo Di Venere, Jeffrey Dumonthier, Manel Errando, Stefan Funk, Priya Ghosh, Francesco Giordano, Jonah Hoffman, <strong>Ye Htet</strong>, Zachary Hughes, Aera Jung, Patrick L. Kelly, John F. Krizmanic, Makiko Kuwahara, Francesco Licciulli, Gang Liu, Leonarda Lorusso, Mario Nicola Mazziotta, John Grant Mitchell, John W. Mitchell, Georgia A. de Nolfo, Giuliana Panzarini, Richard Peschke, Riccardo Paoletti, Roberta Pillera, Brian Rauch, Davide Serini, Garry Simburger, Marion Sudvarg, George Suarez, Teresa Tatoli, Gary S. Varner, Eric A. Wulf, Adrian Zink, and Wolfgang V. Zober. 
+    conference_short: ICRC2023
+    conference:  In Proc. of 38th International Cosmic Ray Conference – PoS(ICRC2023), volume 444, pages 841:1–841:9, July 2023.
+    pdf: ./assets/files/papers/adapt_simulation_icrc2023.pdf
+    paper: ./assets/files/papers/adapt_simulation_icrc2023.pdf
+    image: ./assets/img/defaults/default_paper.png
+  
+  - title: Prompt, Accurate Localization of Gamma-Ray Bursts in the Advanced Particle-astrophysics Telescope.
+    authors: <strong>Ye Htet</strong>, Marion Sudvarg, Jeremy Buhler, Roger Chamberlain, James Buckley, and the APT Collaboration
+    conference_short: HEAD2023
+    conference: 20th Divisional Meeting of the High Energy Astrophysics Division, American Astronomical Society, March 2023.
+    pdf: ./assets/files/posters/head2023_apt_back_end_poster.pdf
+    poster: ./assets/files/posters/head2023_apt_back_end_poster.pdf
+    image: ./assets/img/defaults/default_poster.png
+
+  # - title: Adaptive Real-Time Computation for Prompt Localization of Transients
+  #   authors: Marion Sudvarg, <strong>Ye Htet</strong>, Jeremy Buhler, Roger Chamberlain, Chris Gill, James Buckley, Wenlei Chen, and the APT Collaboration
+  #   conference_short: HEAD2024
+  #   conference: 21st Divisional Meeting of the High Energy Astrophysics Division, American Astronomical Society, April 2024.
+  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   image: ./assets/img/teaser_example_2.png
+
+  # - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+  #   authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  #   conference_short: MICCAI
+  #   conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+  #   pdf: https://arxiv.org/pdf/2306.00988.pdf
+  #   code: https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: https://bib.yliu.me/MICCAI23.txt
+  #   image: ./assets/img/teaser_example_2.png
+  #   notes: Early Accept

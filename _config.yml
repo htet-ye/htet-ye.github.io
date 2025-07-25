@@ -1,0 +1,54 @@
+# Basic Information 
+title: Ye Htet
+position: Ph.D. Candidate
+affiliation: Washington University in St. Louis
+email: htet.ye (at) wustl.edu
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+keywords: yehtet, htet-ye, htet.ye, wustl, washu, washington, university, saint louis, st. louis, phd, ph.d., machine learning, apt, adapt, artificial intelligence, sbs, stream-based computing
+description: Homepage to Ye Htet, a 4th year Ph.D. candidate at Washington University in Saint Louis.
+canonical: https://htet-ye.github.io/
+
+author: yehtet
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+google_scholar: https://scholar.google.com/citations?user=3OjLAMcAAAAJ&hl=en&oi=ao
+cv_link: assets/files/htet_ye-cv.pdf
+# github_link: https://github.com/htet-ye
+linkedin: https://www.linkedin.com/in/htet-ye/
+# twitter: https://twitter.com/
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+avatar: ./assets/img/page/ye.png
+favicon: ./assets/img/page/stream_light.svg
+favicon_dark: ./assets/img/page/stream_dark.svg
+
+# Footnote
+# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
+enable_footnote: true
+
+# Auto Dark Mode
+# You may use the option to disable the automatic dark theme
+auto_dark_mode: true
+
+# Font
+# You can use this option to choose between Serif or Sans Serif fonts.
+font: "Sans Serif" # or "Sans Serif"
+
+# # Google Analytics ID
+# # Please remove this if you don't use Google Analytics
+# google_analytics: G-L0BHB390DE
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+
+# The following files will be removed from the generated website.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - minimal-light.gemspec
+  - html_source_file/
