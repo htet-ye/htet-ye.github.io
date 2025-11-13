@@ -5,7 +5,7 @@ date: "2023-09-29"
 authors: "Ye Htet, Marion Sudvarg, Jeremy Buhler, Roger Chamberlain, and James Buckley"
 paperURL: "Paper: /papers/epsouq_sc2023.pdf"
 img: "/img/APT.jpg"
-imgAlt: "APT"
+imgAlt: "Paper Teaser: APT"
 pub: "EPSOUQ (SC 2023)"
 ---
 
