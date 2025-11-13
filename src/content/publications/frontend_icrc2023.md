@@ -5,11 +5,7 @@ date: "2023-07-28"
 authors: "Marion Sudvarg, Ye Htet, Roger D. Chamberlain, Jeremy Buhler, Blake Bal, Corrado Altomare, Davide Serini, Mario Nicola Mazziotta, Leonardo Di Venere, Wenlei Chen, James H. Buckley for the APT collaboration"
 paperURL: "Paper: /papers/frontend_icrc2023.pdf"
 img: "/img/scintillation.png"
-<<<<<<< HEAD
-imgAlt: "Paper Teaser"
-=======
 imgAlt: "Paper Teaser: Scintillation"
->>>>>>> dev-astro
 pub: "ICRC 2023"
 ---
 

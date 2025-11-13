@@ -8,4 +8,3 @@ img: "/img/intermediate.png"
 imgAlt: "Paper Teaser"
 pub: "ICRC 2025"
 ---
-
